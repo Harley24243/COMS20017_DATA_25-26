@@ -83,3 +83,4 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | AA06. Bayesian Estimation | [[pdf]](Slides/COMS20017-AALec06.pdf) |
+| AA07. MAP Estimation Examples | [[pdf]](Slides/COMS20017-AALec07.pdf) |
