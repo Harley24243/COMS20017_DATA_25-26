@@ -78,3 +78,9 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | ------- | ------ |
 | AA04. Maximum Likelihood Estimation (MLE) | [[pdf]](Slides/COMS20017-AALec04.pdf) |
 | AA05. Least Squares Estimation and the Method of Moments | [[pdf]](Slides/COMS20017-AALec05.pdf) |
+
+#### Week 5: 20/10/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA06. Bayesian Estimation | [[pdf]](Slides/COMS20017-AALec06.pdf) |
+| AA07. MAP Estimation Examples | [[pdf]](Slides/COMS20017-AALec07.pdf) |
