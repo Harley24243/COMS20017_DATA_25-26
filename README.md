@@ -89,3 +89,8 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | Problem Sheet - Parameter Estimation - Solutions | [[pdf]](ProblemSheets/ProblemSheet-AA01-Solutions.pdf)  |
+
+#### Week 7: 03/11/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
