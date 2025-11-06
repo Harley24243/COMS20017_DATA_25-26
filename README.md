@@ -94,3 +94,5 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
+| AA09. Regression | [[pdf]](Slides/COMS20017-AALec09.pdf) |
+| Problem Sheet - Classification & Regression | [[pdf]](ProblemSheets/ProblemSheet-AA02.pdf)  |
