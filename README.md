@@ -84,3 +84,15 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | ------- | ------ |
 | AA06. Bayesian Estimation | [[pdf]](Slides/COMS20017-AALec06.pdf) |
 | AA07. MAP Estimation Examples | [[pdf]](Slides/COMS20017-AALec07.pdf) |
+
+#### Week 6: 27/10/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| Problem Sheet - Parameter Estimation - Solutions | [[pdf]](ProblemSheets/ProblemSheet-AA01-Solutions.pdf)  |
+
+#### Week 7: 03/11/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
+| AA09. Regression | [[pdf]](Slides/COMS20017-AALec09.pdf) |
+| Problem Sheet - Classification & Regression | [[pdf]](ProblemSheets/ProblemSheet-AA02.pdf)  |
