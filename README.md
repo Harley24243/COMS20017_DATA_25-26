@@ -108,15 +108,18 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | MM05. Fourier Transfroms | [pdf] |
 | Problem Sheet 03 (Solutions) | [pdf]  |
 
- <!-- [//]: # #### Week 9: 17/11/2025  
- [//]: # | Lecture, etc. |  Slides, etc. |  
- [//]: # | ------- | ------ |  
- [//]: # | MM06. Features | [pdf] |  
- [//]: # | Problem Sheet 04 (Self/Group study) | [pdf] |  
- [//]: # | MM07. PCA| [pdf] |  
- [//]: # | Problem Sheet 04 (Solutions) | [pdf]  |  
+#### Week 9: 17/11/2025
+<!-- | Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM06. Features | [pdf] |
+| Problem Sheet 04 (Self/Group study) | [pdf] |
+| MM07. PCA| [pdf] |
+| Problem Sheet 04 (Solutions) | [pdf]  |
 
-#### Week 10: 24/11/2025  
- [//]: # | Lecture, etc. |  Slides, etc. |  
- [//]: # | ------- | ------ |  
- [//]: # | MM08. Convolutions | [pdf] |   -->
+#### Week 10: 24/11/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM08. Convolutions | [pdf] |
+| Problem Sheet 03 (Self/Group study) | [pdf] |
+| MM05. Fourier Transfroms | [pdf] |
+| Problem Sheet 03 (Solutions) | [pdf]  | -->
