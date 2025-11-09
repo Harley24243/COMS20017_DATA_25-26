@@ -108,7 +108,7 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | MM05. Fourier Transfroms | [pdf] |
 | Problem Sheet 03 (Solutions) | [pdf]  |
 
- [//]: # #### Week 9: 17/11/2025  
+ <!-- [//]: # #### Week 9: 17/11/2025  
  [//]: # | Lecture, etc. |  Slides, etc. |  
  [//]: # | ------- | ------ |  
  [//]: # | MM06. Features | [pdf] |  
@@ -119,4 +119,4 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 #### Week 10: 24/11/2025  
  [//]: # | Lecture, etc. |  Slides, etc. |  
  [//]: # | ------- | ------ |  
- [//]: # | MM08. Convolutions | [pdf] |  
+ [//]: # | MM08. Convolutions | [pdf] |   -->
