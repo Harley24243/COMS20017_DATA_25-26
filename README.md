@@ -83,3 +83,43 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | Lecture, etc. | Slides, etc. |
 | ------- | ------ |
 | AA06. Bayesian Estimation | [[pdf]](Slides/COMS20017-AALec06.pdf) |
+| AA07. MAP Estimation Examples | [[pdf]](Slides/COMS20017-AALec07.pdf) |
+
+#### Week 6: 27/10/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| Problem Sheet - Parameter Estimation - Solutions | [[pdf]](ProblemSheets/ProblemSheet-AA01-Solutions.pdf)  |
+
+#### Week 7: 03/11/2025
+| Lecture, etc. | Slides, etc. |
+| ------- | ------ |
+| AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
+| AA09. Regression | [[pdf]](Slides/COMS20017-AALec09.pdf) |
+| Problem Sheet - Classification & Regression | [[pdf]](ProblemSheets/ProblemSheet-AA02.pdf)  |
+| Problem Sheet - Classification & Regression - Solutions | [[pdf]](ProblemSheets/ProblemSheet-AA02-Solutions.pdf)  |
+
+### Features and what to do with them! (Majid)
+
+#### Week 8: 10/11/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM04. Signals, etc. | [pdf] |
+| Problem Sheet 03 (Self/Group study) | [pdf] |
+| MM05. Fourier Transfroms | [pdf] |
+| Problem Sheet 03 (Solutions) | [pdf]  |
+
+#### Week 9: 17/11/2025
+<!-- | Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM06. Features | [pdf] |
+| Problem Sheet 04 (Self/Group study) | [pdf] |
+| MM07. PCA| [pdf] |
+| Problem Sheet 04 (Solutions) | [pdf]  |
+
+#### Week 10: 24/11/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM08. Convolutions | [pdf] |
+| Problem Sheet 03 (Self/Group study) | [pdf] |
+| MM05. Fourier Transfroms | [pdf] |
+| Problem Sheet 03 (Solutions) | [pdf]  | -->
