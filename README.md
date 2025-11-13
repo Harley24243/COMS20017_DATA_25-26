@@ -105,8 +105,8 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | ------- | ------ |
 | MM04. Signals, etc. | [pdf](Slides/COMS20017-MMLec04.pdf) |
 | Problem Sheet 03 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM03.pdf)  |
-| MM05. Fourier Transfroms | [pdf] |
-| Problem Sheet 03 (Solutions) | [pdf]  |
+| MM05. Fourier Transfroms | [pdf](Slides/COMS20017-MMLec05.pdf) |
+| Problem Sheet 03 (Solutions) | [pdf](ProblemSheets/ProblemSheet-MM03-Solutions.pdf)  |
 
 #### Week 9: 17/11/2025
 <!-- | Lecture, etc. |  Slides, etc. |
