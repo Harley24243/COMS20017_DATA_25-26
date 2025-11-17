@@ -111,7 +111,7 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 #### Week 9: 17/11/2025
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
-| MM06. Features | [pdf](Slides/COMS20017-MMLec04.pdf) |
+| MM06. Features | [pdf](Slides/COMS20017-MMLec06.pdf) |
 | MM07. PCA| [pdf] |
 <!-- | Problem Sheet 04 (Self/Group study) | [pdf] |
 | Problem Sheet 04 (Solutions) | [pdf]  |
