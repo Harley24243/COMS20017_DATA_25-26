@@ -96,3 +96,29 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | AA08. Classification | [[pdf]](Slides/COMS20017-AALec08.pdf) |
 | AA09. Regression | [[pdf]](Slides/COMS20017-AALec09.pdf) |
 | Problem Sheet - Classification & Regression | [[pdf]](ProblemSheets/ProblemSheet-AA02.pdf)  |
+| Problem Sheet - Classification & Regression - Solutions | [[pdf]](ProblemSheets/ProblemSheet-AA02-Solutions.pdf)  |
+
+### Features and what to do with them! (Majid)
+
+#### Week 8: 10/11/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM04. Signals, etc. | [pdf](Slides/COMS20017-MMLec04.pdf) |
+| Problem Sheet 03 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM03.pdf)  |
+| MM05. Fourier Transfroms | [pdf](Slides/COMS20017-MMLec05.pdf) |
+| Problem Sheet 03 (Solutions) | [pdf](ProblemSheets/ProblemSheet-MM03-Solutions.pdf)  |
+| Code to play with  |  [[sines.py]](ProblemSheets/sines.py)   |
+
+#### Week 9: 17/11/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM06. Features | [pdf](Slides/COMS20017-MMLec06.pdf) |
+| MM07. PCA| [pdf](Slides/COMS20017-MMLec07.pdf) |
+| Problem Sheet 04 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM04.pdf)  |
+| Problem Sheet 04 (Solutions) | [pdf]  |
+
+#### Week 10: 24/11/2025
+| Lecture, etc. |  Slides, etc. |
+| ------- | ------ |
+| MM08. Convolutions | [pdf] |
+| MM09. In-Class [[QUIZ!!!]](https://www.kahoot.it)  Thursday 27th Nov. | Prizes for Top 3 scores!  |
