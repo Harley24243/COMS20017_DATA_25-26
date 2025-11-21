@@ -1,0 +1,7 @@
+1.  B
+2.  B
+3.  (a) Color, size, shape. 
+    (b) Find the eigonvalues, choose the features that correcspond to the eigonvectors with highest eigonvalues.
+4.  167960
+5.  D
+6.  
