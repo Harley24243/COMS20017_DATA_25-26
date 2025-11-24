@@ -40,7 +40,7 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 * If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
 * We have rejigged the course content a bit over the last couple of years so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column. They are REDACTED in the papers below.
 * Please note, two of the past exam papers are for the earlier version of the DATA unit: COMS20011.
-* If you notice something odd, please message us on the unit's Teams channel.
+* If you notice something odd, please message us on the unit's Teams channel!
 ## Past exam papers:
 | Year  | Paper | Answers | Questions to IGNORE! |
 | ----- | ----- | ------- | -------------------- |
