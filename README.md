@@ -115,10 +115,16 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | MM06. Features | [pdf](Slides/COMS20017-MMLec06.pdf) |
 | MM07. PCA| [pdf](Slides/COMS20017-MMLec07.pdf) |
 | Problem Sheet 04 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM04.pdf)  |
-| Problem Sheet 04 (Solutions) | [pdf]  |
+| Problem Sheet 04 (Solutions) | [pdf](ProblemSheets/ProblemSheet-MM04-Solutions.pdf)   |
 
 #### Week 10: 24/11/2025
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
-| MM08. Convolutions | [pdf] |
+| MM08. Convolutions | [pdf](Slides/COMS20017-MMLec08.pdf) |
 | MM09. In-Class [[QUIZ!!!]](https://www.kahoot.it)  Thursday 27th Nov. | Prizes for Top 3 scores!  |
+
+<!-- #### Week 11: 01/12/2025
+
+Monday - Q&A session - Bring your questions - with Majid
+
+Thursday - Q&A session - Bring your questions - with Alin  -->
