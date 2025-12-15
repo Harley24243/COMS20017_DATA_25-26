@@ -36,7 +36,17 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 
 ## Exam info:
 * This Data part of the unit is assessed 100% by a multiple-choice exam.
-* The exam is closed-book (so no additional materials are allowed). There will not be a Formula Sheet.
+* The exam is closed-book (so no additional materials are allowed). There will NOT be a Formula Sheet.
+* If you have any questions regarding alternative exam arrangements, please get in touch with the COMS Student Enquiries Mailbox at coms-student-enquiries@bristol.ac.uk
+* We have rejigged the course content a bit over the last couple of years so some questions are no longer relevant.  These questions are in the "Questions to IGNORE!" column. They are REDACTED in the papers below.
+* Please note, two of the past exam papers are for the earlier version of the DATA unit: COMS20011.
+* If you notice something odd, please message us on the unit's Teams channel!
+## Past exam papers:
+| Year  | Paper | Answers | Questions to IGNORE! |
+| ----- | ----- | ------- | -------------------- |
+| 22/23 | [pdf](/Past_Exams/main_2223.pdf) | [pdf](/Past_Exams/main_2223_answers.pdf) | 2,8,14,18 |
+| 23/24 | [pdf](/Past_Exams/main_2324.pdf) | [pdf](/Past_Exams/main_2324_answers.pdf) | 14 |
+| 24/25 | [pdf](/Past_Exams/main_2425.pdf) | [pdf](/Past_Exams/main_2425_answers.pdf) | - |
 
 ---
 
@@ -115,10 +125,20 @@ You should use the Teams channel for raising queries on any aspects of the COMS2
 | MM06. Features | [pdf](Slides/COMS20017-MMLec06.pdf) |
 | MM07. PCA| [pdf](Slides/COMS20017-MMLec07.pdf) |
 | Problem Sheet 04 (Self/Group study) | [pdf](ProblemSheets/ProblemSheet-MM04.pdf)  |
-| Problem Sheet 04 (Solutions) | [pdf]  |
+| Problem Sheet 04 (Solutions) | [pdf](ProblemSheets/ProblemSheet-MM04-Solutions.pdf)   |
 
 #### Week 10: 24/11/2025
 | Lecture, etc. |  Slides, etc. |
 | ------- | ------ |
-| MM08. Convolutions | [pdf] |
+| MM08. Convolutions | [pdf](Slides/COMS20017-MMLec08.pdf) |
 | MM09. In-Class [[QUIZ!!!]](https://www.kahoot.it)  Thursday 27th Nov. | Prizes for Top 3 scores!  |
+
+#### Week 11: 01/12/2025
+
+Monday - Q&A session - Bring your questions - with Majid
+
+Thursday - Q&A session - Bring your questions - with Alin  
+
+#### Week 12: 08/12/2025
+
+NO LECTURES - ask questions on unit's Teams channel, if required.
